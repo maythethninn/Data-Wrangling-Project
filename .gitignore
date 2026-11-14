@@ -2,4 +2,12 @@
 *.xlsx
 *.xls
 *.csv
-.Rproj.user
+
+# R workspace
+.RData
+
+# R command history
+.Rhistory
+
+# RStudio user-specific settings
+.Rproj.user/
