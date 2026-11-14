@@ -97,7 +97,7 @@ filter_airbnb_data <- function() {
   # Print saved file location
   print(paste("Filtered dataset saved to", output_csv))
 
-  # return(concat_dataset)
+  return(concat_dataset)
 }
 
-filter_airbnb_data()
+# filter_airbnb_data()
